@@ -54,7 +54,6 @@ This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales
 
 ## Business Insights
 
-- Bengaluru generated the highest sales among all cities.
 - Vegetarian food contributed the majority of total sales.
 - Average customer rating remained above 4.3, indicating strong customer satisfaction.
 - Sales were relatively stable during the first eight months and declined in the final quarter.
