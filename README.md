@@ -1,4 +1,4 @@
-# 🛵 Customer Churn Analytics Dashboard
+## 🛵 Swiggy E-Commerce Analytics Dashboard
 
 ## Project Overview
 
@@ -38,7 +38,10 @@ This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales
 
 - swiggy_dashboard.pbix
 - Swiggy_ECommerce_Analytics_Dashboard.mp4
-- Dashboard Screenshots
+- swiggy1.png
+- swiggy2.png
+- swiggy3.png
+- swiggy4.png
 
 ## Skills Demonstrated
 
@@ -55,5 +58,6 @@ This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales
 - Vegetarian food contributed the majority of total sales.
 - Average customer rating remained above 4.3, indicating strong customer satisfaction.
 - Sales were relatively stable during the first eight months and declined in the final quarter.
+- Bengaluru emerged as the top-performing city in terms of sales revenue.
 - Weekend sales showed stronger performance compared to some weekdays.
 - Order volume and sales trends highlighted opportunities for seasonal marketing campaigns.
