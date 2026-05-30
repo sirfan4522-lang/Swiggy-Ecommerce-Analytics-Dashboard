@@ -1,21 +1,31 @@
-## 🛵 Swiggy E-Commerce Analytics Dashboard
+# 🍔 Swiggy E-Commerce Analytics Dashboard
+
+## Project Objective
+
+To analyze food delivery sales performance, customer ratings, order trends, and city-wise sales distribution using Power BI.
+
+---
 
 ## Project Overview
 
-This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales performance, order trends, customer ratings, food category preferences, and city-wise sales distribution. The dashboard helps identify top-performing locations, customer behavior patterns, and overall business performance.
+This Power BI Swiggy E-Commerce Dashboard provides insights into sales performance, customer preferences, order volumes, ratings, food categories, and geographical sales distribution. Interactive filters allow detailed exploration of business performance.
+
+---
 
 ## Key Features
 
 - Total Sales Analysis
 - Total Orders Tracking
-- Average Order Value (AOV) Analysis
+- Average Order Value (AOV)
 - Customer Ratings Analysis
 - Monthly Sales Trend Analysis
-- Daily & Weekly Sales Trend Analysis
+- Daily & Weekly Sales Trends
 - Food Category Performance
 - State-wise Sales Distribution
 - City-wise Sales Analysis
 - Interactive Filters and Slicers
+
+---
 
 ## Tools Used
 
@@ -24,24 +34,31 @@ This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales
 - DAX
 - Excel
 
+---
+
 ## Dashboard Preview
 
-![Dashboard](swiggy1.png)
+### Overall Performance Dashboard
+![Dashboard View 1](swiggy1.png)
 
-![Dashboard](swiggy2.png)
+### Monthly Analysis
+![Dashboard View 2](swiggy2.png)
 
-![Dashboard](swiggy3.png)
+### State-wise Analysis
+![Dashboard View 3](swiggy3.png)
 
-![Dashboard](swiggy4.png)
+### City-wise Analysis
+![Dashboard View 4](swiggy4.png)
+
+---
 
 ## Files Included
 
 - swiggy_dashboard.pbix
 - Swiggy_ECommerce_Analytics_Dashboard.mp4
-- swiggy1.png
-- swiggy2.png
-- swiggy3.png
-- swiggy4.png
+- Dashboard Screenshots
+
+---
 
 ## Skills Demonstrated
 
@@ -50,13 +67,33 @@ This Power BI Swiggy E-Commerce Analytics Dashboard provides insights into sales
 - DAX Calculations
 - E-Commerce Analytics
 - Dashboard Design
+- KPI Reporting
 - Data Visualization
+- Interactive Reporting
+
+---
 
 ## Business Insights
 
+- Bengaluru generated the highest sales revenue among all cities.
 - Vegetarian food contributed the majority of total sales.
-- Average customer rating remained above 4.3, indicating strong customer satisfaction.
-- Sales were relatively stable during the first eight months and declined in the final quarter.
-- Bengaluru emerged as the top-performing city in terms of sales revenue.
-- Weekend sales showed stronger performance compared to some weekdays.
-- Order volume and sales trends highlighted opportunities for seasonal marketing campaigns.
+- Average customer ratings remained consistently above 4.3.
+- Weekend sales generally outperformed weekday sales.
+- Sales remained stable during the first eight months before declining in the final quarter.
+- Food category preferences significantly impacted revenue distribution.
+
+---
+
+## Future Enhancements
+
+- Customer Segmentation Analysis
+- Product Recommendation Insights
+- Delivery Performance Analytics
+- Customer Retention Analysis
+- Profitability Dashboard
+
+---
+
+## Conclusion
+
+This dashboard highlights how Power BI can be used to analyze sales performance, customer behavior, and operational trends in the food delivery industry.
